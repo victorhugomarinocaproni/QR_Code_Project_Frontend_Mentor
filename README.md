@@ -12,3 +12,5 @@ I've built this project so as to improve my Frontend skills, once I've been stud
 - How to use Flexbox inside another Flexbox
 
 # Links: 
+
+https://victorhugomarinocaproni.github.io/QR_Code_Project_Frontend_Mentor/
